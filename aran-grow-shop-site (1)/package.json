@@ -1,0 +1,18 @@
+{
+  "name": "aran-grow-shop",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs --preview preview.html",
+    "test": "node scripts/test.mjs",
+    "airtable:setup": "node scripts/airtable-setup.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9",
+    "@netlify/cache": "^4.2.1",
+    "@netlify/functions": "^6.1.1",
+    "stripe": "^23.1.0"
+  },
+  "devDependencies": {}
+}
