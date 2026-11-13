@@ -1,0 +1,16 @@
+﻿Nombre,Código,Marca,Familia,Precio,Stock,Visible,Destacado,Desde,Detalle,Detalle EN,Tipo,Estrellas CBD,Cultivo,Aroma,Ficha confirmada,Foto,Productos del pack,Nombre EN,Recomendado,Orden
+Amnesia Hidropónica,hii-amnesia,HiiCBD,Flores,"30,00",0,sí,sí,sí,Flor hidropónica,Hydroponic flower,Sativa,4,Hidropónico,Cítrico,,,,,,0
+Cannatonik Indoor Small Bud,oly-cannatonik-sb,Olympus CBD,Flores,"30,00",0,sí,sí,,"Flor indoor, 15 g","Indoor flower, 15 g",Híbrida,4,Indoor,,,,,,,0
+Amnesia Haze Premium Big Bud,oly-amnesia-bb,Olympus CBD,Flores,"15,00",0,sí,sí,,"Flor premium, 3,5 g","Premium flower, 3.5 g",Sativa,4,Premium,Cítrico,,,,,,0
+Cannatonic Premium Big Bud,oly-cannatonic-bb,Olympus CBD,Flores,"15,00",0,sí,sí,,"Flor premium, 3,5 g","Premium flower, 3.5 g",Híbrida,5,Premium,,,,,,,0
+V1 Indoor Small Bud,oly-v1,Olympus CBD,Flores,"30,00",0,sí,,,"Flor indoor, 15 g","Indoor flower, 15 g",Por confirmar,3,Indoor,,,,,,,0
+Vainilla Indoor Small Bud,oly-vainilla-sb,Olympus CBD,Flores,"30,00",0,sí,,,"Flor indoor, 15 g","Indoor flower, 15 g",Índica,3,Indoor,Dulce,,,,,,0
+Vainilla Premium,oly-vainilla-pr,Olympus CBD,Flores,"15,00",0,sí,sí,,Flor premium,Premium flower,Índica,4,Premium,Dulce,,,,,,0
+Black Butter 70%,hii-butter,HiiCBD,Extracciones,"30,00",0,sí,,sí,Extracción,Extract,,4,,,,,,,,0
+The Yellow King 50%,hii-yellow,HiiCBD,Extracciones,"30,00",0,sí,,sí,Extracción,Extract,,3,,,,,,,,0
+Willy Wonka 30%,hii-wonka,HiiCBD,Extracciones,"30,00",0,sí,,sí,Extracción,Extract,,2,,,,,,,,0
+Aceite CBD Full Spectrum 30% Classic,hii-aceite30,HiiCBD,Aceites,"49,99",0,sí,,sí,Frasco de 10 ml,10 ml bottle,,,,,,,,,,0
+Gel Efecto Calor 3000 mg CBD,hii-gel,HiiCBD,Cosmética,"24,90",0,sí,,sí,Cosmética de uso externo,Cosmetic for external use,,,,,,,,,,0
+Pack Completo,pack-completo,Pack,Pack,"97,00",0,sí,,,,,,,,,,,"hii-amnesia, hii-butter, hii-aceite30",Full Pack,,1
+Pack Valle,pack-valle,Pack,Pack,"79,00",0,sí,,,,,,,,,,,"oly-cannatonik-sb, oly-v1, oly-vainilla-sb",Valley Pack,sí,2
+Pack Cata,pack-cata,Pack,Pack,"39,90",0,sí,,,,,,,,,,,"oly-amnesia-bb, oly-cannatonic-bb, oly-vainilla-pr",Tasting Pack,,3
